@@ -4,6 +4,7 @@
 Version Python - from 3.6.х
 
 ## Functional:
+
 This project includes **sentiment analysis** and **classification of reviews by product category.**
 
 Sentiment analysis in issentiment_analysis.ipynb contains the **following points:**
