@@ -4,11 +4,9 @@
 Version Python - from 3.6.х
 
 ## Functional:
-
 This project includes **sentiment analysis** and **classification of reviews by product category.**
 
 Sentiment analysis in issentiment_analysis.ipynb contains the **following points:**
-
 1. Сreating classes.
 2. Load data.
 3. Splitting the dataset into data for training and testing.
@@ -20,6 +18,14 @@ Sentiment analysis in issentiment_analysis.ipynb contains the **following points
 9. Saving model.
 
 Calssification of reviews in category_analysis.ipynb contains the **following points:**
+1. Сreating classes.
+2. Load data.
+3. Splitting the dataset into data for training and testing.
+4. Classification (linear svm).
+5. Perfomance by GaussianNB.
+6. Tuning model.
+7. Saving model.
+8. Confucion matrix.
 
 ### To run the script:
 ```
