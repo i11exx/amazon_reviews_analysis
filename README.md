@@ -9,6 +9,7 @@ In this project concluding **following points:**
 
 ### To run the script:
 ```
-git clone https://github.com/i11exx/reviews_analysis.git
-cd reviews_analysis
-jupyter-notebook reviews.ipynb
+git clone https://github.com/i11exx/amazon_reviews_analysis.git
+cd amazon_reviews_analysis
+jupyter-notebook sentiment_analysis.ipynb
+jupyter-notebook category_analysis.ipynb
